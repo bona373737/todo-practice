@@ -9,6 +9,7 @@ https://github.com/bona373737/todo-react
   - 로그인,회원가입구현_jwt   
   - 투두리스트CRUD 
 #### 기술스택 
+  - 프로젝트 생성 : create-react-app
   - http통신 : axios
   - 스타일 : css in js방식_styled-components
 #### 버전정보 
