@@ -22,4 +22,5 @@ https://github.com/bona373737/todo-react
   - 배포URL : https://wanted-pre-onboarding-todolist.vercel.app
 
 ## version_ReactNative
-https://github.com/bona373737/TodoApp_ReactNative
+https://github.com/bona373737/TodoApp_ReactNative   
+React의 방식으로 네이티브 앱을 개발할 수 있는 React Native 프레임워크를 사용해보며 앱개발을 체험해보자.
