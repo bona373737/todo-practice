@@ -1,10 +1,12 @@
 # todo-practice
 
 ## version_vanillaJS
-https://github.com/bona373737/nomadcoder-momentum-clone
+https://github.com/bona373737/nomadcoder-momentum-clone   
+vanillajs로 todo리스트를 만들어보며 DOM에 직접 접근하여 elements를 가져오고 값을 변경해보자.
 
 ## version_React
 https://github.com/bona373737/todo-react
+
 #### 기능구현 
   - 로그인,회원가입구현_jwt   
   - 투두리스트CRUD 
